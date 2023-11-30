@@ -1,0 +1,23 @@
+{
+  "name": "assignment13_part3",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-vue-navigations": "^23.2.5",
+    "@syncfusion/ej2-vue-notifications": "^23.2.5",
+    "lazysizes": "^5.3.2",
+    "swiper": "^11.0.5",
+    "vue": "^3.3.4",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "sass": "^1.69.5",
+    "vite": "^4.4.11"
+  }
+}
